@@ -1,0 +1,26 @@
+**pycache**/
+.ipynb_checkpoints/
+*.pyc
+
+# Virtual environments
+
+.venv/
+venv/
+env/
+
+# Raw EEG/data files
+
+*.edf
+*.fif
+*.vhdr
+*.eeg
+*.vmrk
+
+# MNE downloaded data
+
+MNE-data/
+
+# OS files
+
+.DS_Store
+Thumbs.db

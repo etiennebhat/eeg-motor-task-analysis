@@ -1,0 +1,5 @@
+Feature,U_statistic,Raw_p_value,Rank_biserial_effect,Bonferroni_p
+Theta_Power,7.0,0.26666666666666666,0.75,1.0
+Alpha_Power,1.0,0.26666666666666666,-0.75,1.0
+Beta_Power,1.0,0.26666666666666666,-0.75,1.0
+Theta_Alpha_Ratio,8.0,0.13333333333333333,1.0,0.5333333333333333
